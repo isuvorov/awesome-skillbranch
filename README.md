@@ -1,53 +1,54 @@
 # awesome-skillbranch
 Полезные ссылки для обучения
 
+# Установка node.js
 
-!!!!!!!!!
-Полезные ссылки:
-- Установка node.js
--- Windows
+## Windows
 https://nodejs.org/
--- Остальные ОС (Linux, Mac)
+
+## Остальные ОС (Linux, Mac)
 https://nodejs.org/en/download/package-manager/
 
-- Редакторы
--- VSCode
+
+
+# Редакторы
+## VSCode
 https://code.visualstudio.com
--- Atom
+## Atom
 http://atom.io
--- WebStorm (IDE)
+## WebStorm (IDE)
 https://www.jetbrains.com/webstorm/
--- Notepad++
+## Notepad++
 https://notepad-plus-plus.org
--- Brackets
+## Brackets
 http://brackets.io
--- Sublime Text
+## Sublime Text
 https://www.sublimetext.com
 
-- Хранилища репозиториев
--- GitLab
+# Хранилища репозиториев
+## GitLab
 https://gitlab.com
--- GitHub
+## GitHub
 https://github.com
--- BitBucket
+## BitBucket
 https://bitbucket.org
 
-- Терминалы
--- Windows
+# Терминалы
+## Windows
 Cmder (http://cmder.net)
--- Linux
+## Linux
 Terminator (http://gnometerminator.blogspot.ru/p)
 
-- Скриншотеры 
--- Windows
+# Скриншотеры 
+## Windows
 Sharex (https://getsharex.com)
--- Linux
+## Linux
 Shutter (http://shutter-project.org)
 
-- Статьи
--- Выразительный JavaScript: Node.js
+# Статьи
+## Выразительный JavaScript: Node.js
 https://habrahabr.ru/post/245775/
--- Шпаргалка по пакетному менеджеру NPM
+## Шпаргалка по пакетному менеджеру NPM
 https://habrahabr.ru/post/133363/
--- ECMAScript 6 (ES6)
+## ECMAScript 6 (ES6)
 https://habrahabr.ru/post/252323/
