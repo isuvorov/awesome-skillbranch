@@ -5,6 +5,9 @@
 - **Windows**: https://nodejs.org/
 - **Остальные ОС (Linux, Mac)**: https://nodejs.org/en/download/package-manager/
 
+#### Пакетный менеджер node.js
+- **NPM**: https://www.npmjs.com/
+
 #### Редакторы
 - **VSCode**: https://code.visualstudio.com
 - **Atom**: http://atom.io
