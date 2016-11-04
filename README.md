@@ -27,6 +27,7 @@
 
 #### Скриншотеры 
 - **Windows**: *Sharex* https://getsharex.com
+- **Windows, Mac**: *LightShot* https://app.prntscr.com
 - **Linux**: *Shutter* http://shutter-project.org
 
 #### Статьи
