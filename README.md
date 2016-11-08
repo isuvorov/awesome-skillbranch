@@ -23,7 +23,7 @@
 
 #### Терминалы
 - **Windows**: *Cmder* http://cmder.net
-- **Linux**: *Terminator* http://gnometerminator.blogspot.ru/p
+- **Linux**: *Terminator* http://gnometerminator.blogspot.ru
 
 #### Скриншотеры 
 - **Windows**: *Sharex* https://getsharex.com
